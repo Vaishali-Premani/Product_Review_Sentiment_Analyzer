@@ -97,20 +97,20 @@ These steps help convert raw textual data into numerical features suitable for m
 ---
 
 ## 🔄️ System Workflow
-- Dataset
-↓
-- Data Preprocessing
-↓
-- Text Vectorization (CountVectorizer)
-↓
-- Machine Learning Model Training
-↓
-- Model Evaluation & Selection
-↓
-- Model Deployment using Flask
-↓
-- User Input (Review / CSV File)
-↓
-- Sentiment Prediction
-↓
-- Result Visualization
+Dataset
+   ↓
+Data Preprocessing
+   ↓
+Text Vectorization (CountVectorizer)
+   ↓
+Machine Learning Model Training
+   ↓
+Model Evaluation & Selection
+   ↓
+Model Deployment using Flask
+   ↓
+User Input (Review / CSV File)
+   ↓
+Sentiment Prediction
+   ↓
+Result Visualization
